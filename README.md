@@ -28,23 +28,25 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
-const anmol = {
+const vaibhav = {
     pronouns: "He" | "Him",
-    code: ["Javascript", "Python", "Java", "PHP"],
-    askMeAbout: ["web dev", "tech", "app dev", "photography"],
+    code: ["Javascript", "Python", "C/C++", "Typescript"],
+    askMeAbout: ["web dev", "full stack", "deep learning", ""],
     technologies: {
         backEnd: {
             js: ["Node", "Fastify", "Express"],
+            python: ["FastAPI", "Django", "flask"],
         },
         mobileApp: {
             native: ["Android Development"]
         },
-        devOps: ["AWS", "Docker🐳", "Route53", "Nginx"],
-        databases: ["mongo", "MySql", "sqlite"],
+        devOps: ["AWS", "Docker🐳", "Nginx"],
+        databases: ["mongo", "MySql", "sqlite", "PostgreSQL"],
+        ML/DL: ["PyTorch", "Scikit-Learn", ]
         misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "php", "SuiteApp"]
     },
-    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
-    currentFocus: "No Focus point at this time",
+    architecture: ["Serverless Architecture", "Microservices", "Single page applications"],
+    currentFocus: "Actively Working",
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
 ```
