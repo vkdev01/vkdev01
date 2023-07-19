@@ -14,7 +14,7 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
   
 ### 🧐 More About Me:
 
-- 🔭 &nbsp; I’m currently working with and also learning **NLP,React and Deep Learning**
+- 🔭 &nbsp; I’m currently working with and also learning **NLP, React and Deep Learning**
 - 🤝 &nbsp; I’m looking to collaborate on [sheets-database](https://github.com/rahul-jha98/sheets-database)
 - 🌱 &nbsp; I’m currently learning Typescript, React and Natural Language PRocessing; 
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/vkdev01?tab=repositories)
@@ -22,7 +22,7 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/vaibhav-kumar-vk/)
 - 📝 &nbsp; Checkout my [resume]()
-- 📚 &nbsp; When I am free, I read fantasy and fiction novels. Checkout my [Goodreads](https://www.goodreads.com/rahul-jha98) to see the book I have read
+- 📚 &nbsp; Checkout my Blog[Hashnode](https://vaibhavkumar.hashnode.dev) to see the book I have read
 
 <br>
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
