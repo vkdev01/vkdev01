@@ -18,7 +18,6 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 ### 🧐 More About Me:
 
 - 🔭 &nbsp; I’m currently working with and also learning **NLP, React and Deep Learning**
-- 🤝 &nbsp; I’m looking to collaborate on [sheets-database](https://github.com/rahul-jha98/sheets-database)
 - 🌱 &nbsp; I’m currently learning Typescript, React and Natural Language PRocessing; 
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/vkdev01?tab=repositories)
 - 🎨 &nbsp; Using [this svg](https://storyset.com/illustration/javascript-frameworks/amico) and Figma I made 👉
