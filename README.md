@@ -22,7 +22,7 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/vaibhav-kumar-vk/)
 - 📝 &nbsp; Checkout my [resume]()
-- 📚 &nbsp; Checkout my Blog[Hashnode](https://vaibhavkumar.hashnode.dev) to see the book I have read
+- 📚 &nbsp; Checkout my [Hashnode](https://vaibhavkumar.hashnode.dev) 
 
 <br>
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
