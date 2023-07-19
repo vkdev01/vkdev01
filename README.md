@@ -30,6 +30,9 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 <br>
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
+<img align="center" alt="GIF" src="https://storyset.com/illustration/binary-code/pana#90CAF9FF&hide=&hide=false" width="360px"/>
+
+
 ```javascript
 const vaibhav = {
     pronouns: "He" | "Him",
